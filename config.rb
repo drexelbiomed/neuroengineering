@@ -40,6 +40,38 @@ page '/*.txt', layout: false
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
+helpers do
+  def current_page?(page)
+    if page.title == current_page.data.title
+      return true
+    else
+      return false
+    end
+  end
+
+  def current_page_is_a_sub_page?(page)
+    is_sub_page = false                     # set the switch in the off position
+
+    if page.sub_pages?
+      page.sub_pages.each do |sub|
+        if sub.title == current_page.data.title # if we are on the sub page
+          is_sub_page = true                  # trip the switch
+        end
+      end
+    end
+    return is_sub_page                      # return the switch's state (true or false)
+  end
+
+  def test_values_compared_in_cp_vs_subpage(page)
+    a = ""
+    page.sub_pages.each do |sub|
+      a+="<p>#{sub.title}, #{current_page.data.title} "
+      a+="is #{sub.title == current_page.data.title}</p>"
+    end
+    return a
+  end
+end
+
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
