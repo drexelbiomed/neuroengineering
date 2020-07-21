@@ -1,3 +1,13 @@
+# Sprockets asset compilation
+activate :sprockets do |c|
+  c.expose_middleman_helpers = true
+end
+
+set :css_dir, 'stylesheets'
+set :js_dir, 'javascripts'
+set :images_dir, 'images'
+set :partials_dir, 'partials'
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
@@ -31,16 +41,14 @@ page '/*.txt', layout: false
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
-
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
+configure :build do
+  ignore '*.psd'
+  ignore 'fonts/**'
+  activate :minify_css
+  activate :minify_javascript
+
+  set :http_prefix, "/labs/neuroengineering"
+end
