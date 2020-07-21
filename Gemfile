@@ -5,7 +5,7 @@ gem 'middleman-cli'
 gem 'middleman-core'
 gem 'middleman-autoprefixer', '~> 2.7'
 gem "middleman-sprockets", "~> 4.1"
-
+gem "middleman-compass"
 gem "sass"
 
 gem 'bootstrap', '~> 4.3'
