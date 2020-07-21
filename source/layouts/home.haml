@@ -16,15 +16,15 @@
 
   %body{ :class => page_classes }
     / = partial "gtm-body"
-    / = partial "bg-image"
+    = partial "partials/bg-image"
     .height
       .container
         .row
           .twelve.large-12.columns
-            / = partial "logo"
+            = partial "partials/logo"
         .row.wrap-nav
           .twelve.large-12.columns
-            / = partial "nav-topbar"
+            = partial "partials/nav-topbar"
         .row.wrap
           .nine.medium-9.columns.main-content-home.pad-0
             = yield

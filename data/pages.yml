@@ -1,0 +1,26 @@
+- title: People
+  url: people
+  sub_pages:
+    - title: Personnel
+      url: overview
+- title: Research
+  url: research
+  sub_pages:
+    - title: Research Overview
+      url: overview
+    - title: From Sensation to Action
+      url: sensation-to-action
+    - title: Descending Motor Control
+      url: descending-motor-control
+    - title: Biomechanics of Locomotion
+      url: biomechanics-of-locomotion
+- title: Publications
+  url: publications
+  sub_pages:
+    - title: Publications List
+      url: list
+- title: Positions
+  url: positions
+  sub_pages: 
+    - title: Open Positions
+      url: open
