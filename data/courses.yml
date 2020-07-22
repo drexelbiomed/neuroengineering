@@ -56,178 +56,117 @@
   repeat: Not repeatable for credit 
   prereq: >
       IDPT 521 [Min Grade: B] or IDPT 550 [Min Grade: B] 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 685 
+  title: Experimental Methods in Neuroengineering 
+  cred: 2.0 
+  desc: >-
+      This course explores an exciting field of neuroengineering, brain computer interfaces (BCI), in a hands-on laboratory setting. The course addresses both the human and computational elements of the technology emphasizing an engineering perspective while utilizing and modifying common paradigms in electroencephologram (EEG)-based BCIs such as motor imagery and the P300 speller. Students are expected to understand the EEG signal and develop good recording techniques to assess and modify data collection and processing in real time. This course will also discuss how the techniques and algorithms addressed in this class translate to other modalities such as fNIR as well as more invasive systems. This course includes a lecture and laboratory component.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 710 
+  title: Neural Signals 
+  cred: 3.0 
+  desc: This course covers aspects of neural signaling, including fundamentals of action potential generation, generator potentials, synaptic potentials, and second messenger signals. Students learn Hodgkin-Huxeley descriptions, equivalent circuit representations and be able to derive and integrate descriptive equations and generate computer simulations.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 710 [Min Grade: B] 
+- id: BMES 722 
+  title: Neural Aspects of Posture and Locomotion I 
+  cred: 3.0 
+  desc: >-
+      Studies physiology of sensory/motor systems, with emphasis on modeling of neural systems and biomechanical aspects of functional tasks. Begins with an analysis of the transportation of materials in and out of cells, followed by an examination of the origin and maintenance of membrane potentials. Discusses intra-and extracellular and surface measurement of potentials, generation and transmission of action potentials, synaptic processes, and the structure/function of muscle. Combines these elements to study reflex systems as well as vestibular and ocular effects on posture. Culminates in the study of the control of motor systems with respect to bipedal locomotion.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 725 
+  title: Neural Networks 
+  cred: 3.0 
+  desc: Explores the mathematical and biological bases for neurocomputing. Involves construction by students of computer simulations of important models and learning algorithms. Discusses applications to pattern recognition, vision, speech, control, and psychological modeling.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: MATH 723 
+  title: Mathematical Neuroscience 
+  cred: 3.0 
+  desc: This is an introduction to mathematical and computational techniques for analyzing neuronal models. Topics include conductance based models, neuronal excitability, bursting, neural networks, and compartmental models, as well as phase plane analysis, slow-fast systems, elements of applied bifurcation theory, and simulating differential equation models using MATLAB.
+  unit: College of Arts and Sciences
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 501 
+  title: Medical Sciences I 
+  cred: 3.0 
+  desc: First course in a three-course sequence designed to acquaint students with the fundamentals of biology and physiology from an engineering perspective. This first course covers evolution, genetics, molecular biology and basic cellular physiology.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 502 
+  title: Medical Sciences II 
+  cred: 3.0 
+  desc: Second course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This second course covers important concepts in cell physiology and highlights applications of these concepts in biomedical engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 501 [Min Grade: C] 
+- id: BMES 503 
+  title: Medical Sciences III 
+  cred: 3.0 
+  desc: Third course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This third course focuses on understanding physiology from the cellular to systems scales, with an emphasis on biological control systems and applications in biomedical engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 502 [Min Grade: C] 
+- id: BMES 528 
+  title: Pediatric Engineering I 
+  cred: 3.0 
+  desc: This course will introduce students to concepts related to childhood injury and disease and to current treatment paradigms for pediatric patients. The objective is for students to develop a fundamental understanding of childhood injury and disease, healthcare, and treatment strategies which underscore the need for new and innovative therapies for pediatric patients. Instructors will discuss how the needs of pediatric patients vary considerably due to differences in size, rates of growth, critical development periods, anatomy, physiological differences, and physical activity levels.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 529 
+  title: Pediatric Engineering II 
+  cred: 3.0 
+  desc: This course will leverage the content from BMES 528 by introducing students to the challenges and limitations of current treatment paradigms for pediatric patients and by studying the landscape of pediatric medical device development. Focus will be on the scientific and engineering concepts, methods, and approaches to address healthcare challenges with direct relevance to pediatric patients, including pediatric medical devices and unmet clinical needs. There is and has been a compelling and recognized need for the development of new medical devices and therapies for pediatric patients. The objective is to train the next-generation of students for future scientific and technical careers in pediatric engineering, healthcare, entrepreneurship, and innovation that will have a lasting impact on global health.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 528 [Min Grade: B-] 
+- id: BMES 551 
+  title: Biomedical Signal Processing 
+  cred: 3.0 
+  desc: Introduces discrete time signals and systems; origin and classification of biomedical signals; data acquisition, filtering, and spectral estimation of medical signals; compression of medical signals; new processing approaches and time-frequency representation and wavelets.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 588 
+  title: Medical Device Development 
+  cred: 3.0
+  desc: Medical device product development must take into account a diverse set of disciplines to achieve a safe and successful product. This course exposes the student to several of these disciplines with the objective of raising the student's awareness of safety throughout the product development life cycle. Students will learn to appreciate the complex engineering decisions that support development of a safe medical device through an examination of risk management, regulatory processes, human factors and clinical studies.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
+- id: BMES 631
+  title: Tissue Engineering I
+  cred: 4.0 
+  desc: This course is designed to familiarize students with advanced concepts of cellular and molecular biology relevant to tissue engineering. This is the initial course in a three-course sequence combining materials from life science, engineering design and biomaterials to educate students in the principles, methods and technology of tissue engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 502 [Min Grade: B] 
+- id: BMES 632 
+  title: Tissue Engineering II 
+  cred: 4.0
+  desc: This course familiarizes students with advanced concepts of developmental and evolutionary biology relevant to tissue engineering. The second part of a three-course sequence combines materials from cellular/molecular biology, evolutionary design, and biomaterials to education students in the principles and methods of tissue engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 631 [Min Grade: B] 
+- id: BMES 641 
+  title: Biomedical Mechanics I 
+  cred: 4.0 
+  desc: Designed to acquaint students with the response of biological tissues to mechanical loads and with the mechanical properties of living systems. Covers topics in musculoskeletal anatomy and functional mechanics; a review of mechanical principles, statics, dynamics, and materials; soft and hard tissue mechanics; mechano-pathological conditions in biological tissues and their correction; and prosthetics.
+  unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
   prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
-- id: 
-  title: 
-  cred: 
-  desc: 
-  unit: 
-  repeat: 
-  prereq: 
+

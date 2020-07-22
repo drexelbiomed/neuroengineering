@@ -18,6 +18,6 @@
             %br
             %strong
               Repeat Status:
-            = c.repeat
+            = c.repeat.present? ? c.repeat : 'Not repeatable for credit'
             
             = c.prereq.present? ? '<br><strong>Prerequisites:</strong>' + c.prereq : ''

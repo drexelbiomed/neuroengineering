@@ -1,0 +1,23 @@
+%table.faculty
+  %tbody
+    - data.faculty.each do |f|
+      %tr
+        %td
+          %img{:src => f.photo, :alt => f.fullname, :style => "width: 100px;"}
+          %p
+            %strong
+              = f.fullname
+            %br
+            = mail_to f.email
+            %br
+            = f.addr
+            %br
+            = f.website
+        %td{:style => "width: 35%"}
+          = f.affil
+        %td
+          %p
+            = f.desc
+          %p
+            - f.areas.each do |a|
+              %span.label= a

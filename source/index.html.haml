@@ -4,9 +4,8 @@ title: "Home"
 ---
 
 %ul.bxslider
-  %li= image_tag "https://via.placeholder.com/350x150", title: "Research Project: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/sensation-to-action\">From Sensation to Action</a>"
-  %li= image_tag "https://via.placeholder.com/350x150", title: "Research Project: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/descending-motor-control\">Descending Motor Control</a>"
-  %li= image_tag "https://via.placeholder.com/350x150", title: "Research Project: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/biomechanics-of-locomotion\">Biomechanics of Locomotion</a>"
+  %li= image_tag "https://via.placeholder.com/225x150", title: "Research Project: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/sensation-to-action\">From Sensation to Action</a>"
+
 
 %h2 What is Neuroengineering?  
 %p.big-text 
@@ -17,19 +16,33 @@ title: "Home"
   is a cross-campus effort, spearheaded by the School of Biomedical Engineering, Science and Health Systems and Drexel University College of Medicine, to educate the next generation of interdisciplinary brain scientists and bioengineers, by creating teams of students with a shared common language and similar quantitative bases and frameworks, even though each one originates from different original disciplines of expertise.
 
 %p.big-text 
-  The <a href="">faculty</a> research interests include 
-  %ul
-    %li Systems Neuroengineering
-    %li Brain-Computer Interface
-    %li Neuromorphic Engineering 
-    %li Comparative Neuroengineering
-    %li Computational Neuroengineering
-    %li Translational Neuroengineering
-    %li Human Neuroengineering
-    %li Neuromechanics
-    %li Neural Circuit Engineering
-    %li Biomaterials
-    %li Neural Tissue Enginnering
+  The 
+  = link_to "faculty", "#{config[:http_prefix]}faculty/overview"
+  research interests include:
+  
+  %ul.unstyled.research-areas
+    %li 
+      %span.label Systems Neuroengineering
+    %li 
+      %span.label Brain-Computer Interface
+    %li 
+      %span.label Neuromorphic Engineering 
+    %li 
+      %span.label Comparative Neuroengineering
+    %li 
+      %span.label Computational Neuroengineering
+    %li 
+      %span.label Translational Neuroengineering
+    %li 
+      %span.label Human Neuroengineering
+    %li 
+      %span.label Neuromechanics
+    %li 
+      %span.label Neural Circuit Engineering
+    %li 
+      %span.label Biomaterials
+    %li 
+      %span.label Neural Tissue Enginnering
 
 %p.big-text 
   %strong Is Neuroengineering for you? 
@@ -37,4 +50,13 @@ title: "Home"
 
 %p.big-text
   %strong How to prepare for a graduate education in Neuroengineering? 
-  The ideal candidate will have a 1) strong quantitative training through coursework in mathematics and computer sciences, 2) some exposure to engineering, and 3) some exposure to neuroscience. However, since Neuroengineering is highly interdisciplinary, a grounding in many different STEM disciplines is a good starting point for Neuroengineering. 
+  The ideal candidate will have a 
+  %br
+  1) strong quantitative training through coursework in mathematics and computer sciences, 
+  %br
+  2) some exposure to engineering, and 
+  %br
+  3) some exposure to neuroscience. 
+
+%p.big-text
+  However, since Neuroengineering is highly interdisciplinary, a grounding in many different STEM disciplines is a good starting point for Neuroengineering. 

@@ -26,19 +26,9 @@
           .twelve.large-12.columns
             = partial "partials/nav-topbar"
         .row.wrap
-          .row
-            .twelve.large-12.columns#breadcrumb
-              = partial "partials/nav-breadcrumbs"
-          .row
-            .six.push-three.medium-6.medium-push-3.columns.main-content
-              = yield
-            .three.push-three.medium-3.medium-push-3.columns.sidebar-right
-              / = partial "partials/sidebar-right"
-            .three.pull-nine.medium-3.medium-pull-9.columns.sidebar-left
-              = partial "partials/nav-sidebar"
+          .nine.medium-12.columns.main-content-home.pad-0
+            = yield
       %footer.footer
         = partial "partials/footer"
 
     = partial "partials/js"
-
-    = javascript_include_tag "app"

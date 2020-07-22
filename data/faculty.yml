@@ -1,0 +1,16 @@
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/Bhandawat-Vikas.ashx
+  fullname: Vikas Bhandawat, PhD
+  email: vikas.bhandawat@drexel.edu
+  addr: Bossone 602
+  website: <a href="http://biomed.drexel.edu/labs/bhandawat/">Bhandawat Laboratory</a>
+  affil: School of Biomedical Engineering, Science and Health Systems
+  desc: >
+    We study how animal behavior emerges from the complex interaction amongst the animal's nervous systems, their muscle-body dynamics and their environment.
+    We use fruit flies (Drosophila melanogaster) as our model organism because they perform many complex behaviors with a relatively simple brain, and because of the many genetic tools that are available in the flies.
+    We employ a multi-pronged approach which includes in vivo whole-cell patch clamp recordings, imaging, quantitative measurement of behavior, biomechanics, and computation.
+  areas: 
+    - Sensorimotor integration
+    - whole-cell patch clamp and imaging in behaving animals
+    - optogenetics
+    - neuromechanics
+    - locomotion
