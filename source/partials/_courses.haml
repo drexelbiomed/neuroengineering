@@ -1,2 +1,22 @@
-- data.courses.each do |c|
-  = c.id
+%table
+  %tbody
+    - data.courses.each do |c|
+      %tr
+        %td
+          %p
+            %strong
+              = c.id
+              = c.title
+              = c.cred
+              Credits
+          %p
+            = c.desc
+          %p
+            %strong
+              College/Department
+            = c.unit
+            %br
+            %strong
+              Repeat Status
+            = c.repeat
+          
