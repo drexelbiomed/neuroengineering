@@ -11,8 +11,28 @@
 - title: Research
   url: research
   sub_pages:
-    - title: Research Overview
-      url: overview
+    - title: Systems Neuroengineering
+      url: systems-neuroengineering
+    - title: Brain-Computer Interface
+      url: brain-computer-interface
+    - title: Neuromorphic Engineering
+      url: neuromorphic-engineering
+    - title: Comparative Neuroengineering
+      url: comparative-neuroengineering
+    - title: Computational Neuroengineering
+      url: computational-neuroengineering
+    - title: Translational Neuroengineering
+      url: translational-neuroengineering
+    - title: Human Neuroengineering
+      url: human-neuroengineering
+    - title: Neuromechanics
+      url: neuromechanics
+    - title: Neural Circuit Engineering
+      url: neural-circuit-engineering
+    - title: Biomaterials
+      url: biomaterials
+    - title: Neural Tissue Enginnering
+      url: neural-tissue-engineering
 - title: News
   url: news
   sub_pages: 

@@ -1,23 +1,26 @@
-%table.faculty
-  %tbody
-    - data.faculty.each do |f|
-      %tr
-        %td
-          %img{:src => f.photo, :alt => f.fullname, :style => "width: 100px;"}
-          %p
-            %strong
-              = f.fullname
-            %br
-            = mail_to f.email
-            %br
-            = f.addr
-            %br
-            = f.website
-        %td{:style => "width: 35%"}
-          = f.affil
-        %td
-          %p
-            = f.desc
-          %p
-            - f.areas.each do |a|
-              %span.label= a
+- data.faculty.each do |f|
+  .row
+    .small-6.large-3.columns
+      %img{:src => f.photo, :alt => f.fullname, :style => "width: 100px;"}
+      %p
+        %strong
+          = f.fullname
+        %br
+        = mail_to f.email
+        %br
+        = f.addr
+        %br
+        = f.website
+    .small-6.large-3.columns
+      %p
+        %br
+        = f.affil
+    .small-12.large-6.columns
+      %p
+        = f.desc
+      %p
+        - f.areas.each do |a|
+          %span.label
+            = link_to a.keys[0], config[:http_prefix] + a.values[0]
+
+  %hr
