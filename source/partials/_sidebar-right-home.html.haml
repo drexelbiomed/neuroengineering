@@ -8,4 +8,4 @@
         - when true 
           = link_to "doi: #{pub.doi}", "https://dx.doi.org/#{pub.doi}"
 
-  = link_to "More Publications", "#{:http_prefix}publications/list", class: "more-link"
+  = link_to "More Publications", "#{config[:http_prefix]}publications/list", class: "more-link"

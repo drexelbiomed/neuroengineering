@@ -8,7 +8,7 @@
     %meta( name="viewport" content="width=device-width, initial-scale=1.0" )
     / Use title if it's in the page YAML frontmatter
     %title= "#{current_resource.data.title} | #{data.info.site.title}" || "#{data.info.site.title}"
-    %link{:rel => "shortcut icon", :href => "#{:http_prefix}images/FavIcon.ico"}
+    %link{:rel => "shortcut icon", :href => config[:http_prefix] + "images/FavIcon.ico"}
 
     = javascript_include_tag "modernizr"
     / = partial "gtm-head"
@@ -33,4 +33,4 @@
       %footer.footer
         = partial "partials/footer"
 
-    / = partial "js"
+    = partial "partials/js"
