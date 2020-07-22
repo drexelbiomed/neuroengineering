@@ -13,10 +13,11 @@
             = c.desc
           %p
             %strong
-              College/Department
+              College/Department:
             = c.unit
             %br
             %strong
-              Repeat Status
+              Repeat Status:
             = c.repeat
-          
+            
+            = c.prereq.present? ? '<br><strong>Prerequisites:</strong>' + c.prereq : ''

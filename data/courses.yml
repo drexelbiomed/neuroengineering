@@ -1,6 +1,233 @@
 - id: NEUR 602S
   title: Medical Neuroscience
-  desc: This course will provide extensive information regarding structure and function relationships in the central nervous system. It will also provide introductory information on neurophysiology, cellular neuroscience and systems neuroscience topics.
   cred: 6.0
+  desc: This course will provide extensive information regarding structure and function relationships in the central nervous system. It will also provide introductory information on neurophysiology, cellular neuroscience and systems neuroscience topics.
   unit: COM School of Biomedical Sciences and Professional Studies
   repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 607S 
+  title: Integrated Neuroscience 
+  cred: 4.0 
+  desc: >-
+      This is a core course required of all graduate students in the Neuroscience Program. The prerequisite is completion of Medical Neuroscience. 
+      The course meets twice weekly during the fall semester for 2 hour sessions, which include a mix of lecture and discussion. 
+      The course emphasizes critical evaluation of experimental methods used for investigation problems in the organization and function of the central nervous system. 
+      One major goal of the course is to teach the students a system approach to analyzing the CNS control of behavior and physiology. 
+      The topics that are chosen to illustrate these principles of organization include sensorimotor integration; CNS development; neurochemical anatomy: sites and mechanism underlying regulation if ingestion, responses to stress and sexual behavior: central mechanisms of award, learning and memory: and recovery of function after CNS damage. 
+      An important second goal is to relate activity at the systems level to underlying cellular and molecular mechanisms. 
+      These strategies discussed throughout the course but especially in development; genetic basis of psychopathology: CNS injury and recovery; and use of molecular techniques for modulating behavior. 
+      The students are required to write four papers covering information from four separate blocks of the course and one final paper comparing the uses of transgenic knockouts, inducible knockouts and antisense approaches for studying a system of the student's choice. These papers are read by the faculty and defended by the students.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 609S 
+  title: Graduate Neuroscience II 
+  cred: 4.0 
+  desc: Graduate Neuroscience II is didactic in nature with neurological disease as the basis for understanding concepts in Cellular Neuroscience (module I), Systems Neuroscience (module II) and Behavioral Neuroscience (module III).
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 634S
+  title: Motor Systems
+  cred: 4.0 
+  desc: This course is a mixed didactic lecture and primary literature seminar-based course with take home exercises. It covers comparative and human motor control from standpoints of mechanics, control, and evolution. The emphasis is on a working knowledge of the principles and methods of analysis and experiment from muscles and small neural circuits to population dynamics and human psychophysics of movement and motor learning. At the course completion as part of the evaluation, students write an NIH R21 style grant proposal as an exercise and present and defend it. 
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit
+  prereq: 
+- id: NEUR 500S 
+  title: Statistics for Neuro/Pharm Research 
+  cred: 2.0 
+  desc: This course will provide hands on instruction in how research data are managed and analyzed in neurobiological research. Studies will acquire a basic statistical knowledge with emphasis on application to data sets similar to what they can expect to encounter in their thesis research. Instruction in the use of statistical programs will be included.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit
+  prereq: 
+- id: PHRM 507S 
+  title: Prin of Neuropharmacology 
+  cred: 3.0 
+  desc: This course covers basic concepts in Neuropharmacology, all of the major neurotransmitter systems, behavioral pharmacology and addition, approaches to molecular and cellular physiology including photoactivated biomolecules, electrophysiology, phosphorylation.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: PHRM 508S 
+  title: Fundamentals in Neuropharmacology 
+  cred: 1.5
+  desc: This is an interactive and interdisciplinary course that introduces students to fundamental aspects of neuropharmacology. It is devoted to the study of drugs that affect nervous tissue and alter behaviors. The course will give an introduction to pharmacokinetics, receptor binding theory, signal transduction, neurochemical methods, and behavioral pharmacology. This is followed by lectures on individual neurotransmitter systems. The course will be taught at Drexel University College of Medicine.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: >
+      IDPT 521 [Min Grade: B] or IDPT 550 [Min Grade: B] 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
+- id: 
+  title: 
+  cred: 
+  desc: 
+  unit: 
+  repeat: 
+  prereq: 
