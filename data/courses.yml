@@ -1,0 +1,172 @@
+- id: NEUR 602S
+  title: Medical Neuroscience
+  cred: 6.0
+  desc: This course will provide extensive information regarding structure and function relationships in the central nervous system. It will also provide introductory information on neurophysiology, cellular neuroscience and systems neuroscience topics.
+  unit: COM School of Biomedical Sciences and Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 607S 
+  title: Integrated Neuroscience 
+  cred: 4.0 
+  desc: >-
+      This is a core course required of all graduate students in the Neuroscience Program. The prerequisite is completion of Medical Neuroscience. 
+      The course meets twice weekly during the fall semester for 2 hour sessions, which include a mix of lecture and discussion. 
+      The course emphasizes critical evaluation of experimental methods used for investigation problems in the organization and function of the central nervous system. 
+      One major goal of the course is to teach the students a system approach to analyzing the CNS control of behavior and physiology. 
+      The topics that are chosen to illustrate these principles of organization include sensorimotor integration; CNS development; neurochemical anatomy: sites and mechanism underlying regulation if ingestion, responses to stress and sexual behavior: central mechanisms of award, learning and memory: and recovery of function after CNS damage. 
+      An important second goal is to relate activity at the systems level to underlying cellular and molecular mechanisms. 
+      These strategies discussed throughout the course but especially in development; genetic basis of psychopathology: CNS injury and recovery; and use of molecular techniques for modulating behavior. 
+      The students are required to write four papers covering information from four separate blocks of the course and one final paper comparing the uses of transgenic knockouts, inducible knockouts and antisense approaches for studying a system of the student's choice. These papers are read by the faculty and defended by the students.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 609S 
+  title: Graduate Neuroscience II 
+  cred: 4.0 
+  desc: Graduate Neuroscience II is didactic in nature with neurological disease as the basis for understanding concepts in Cellular Neuroscience (module I), Systems Neuroscience (module II) and Behavioral Neuroscience (module III).
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: NEUR 634S
+  title: Motor Systems
+  cred: 4.0 
+  desc: This course is a mixed didactic lecture and primary literature seminar-based course with take home exercises. It covers comparative and human motor control from standpoints of mechanics, control, and evolution. The emphasis is on a working knowledge of the principles and methods of analysis and experiment from muscles and small neural circuits to population dynamics and human psychophysics of movement and motor learning. At the course completion as part of the evaluation, students write an NIH R21 style grant proposal as an exercise and present and defend it. 
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit
+  prereq: 
+- id: NEUR 500S 
+  title: Statistics for Neuro/Pharm Research 
+  cred: 2.0 
+  desc: This course will provide hands on instruction in how research data are managed and analyzed in neurobiological research. Studies will acquire a basic statistical knowledge with emphasis on application to data sets similar to what they can expect to encounter in their thesis research. Instruction in the use of statistical programs will be included.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit
+  prereq: 
+- id: PHRM 507S 
+  title: Prin of Neuropharmacology 
+  cred: 3.0 
+  desc: This course covers basic concepts in Neuropharmacology, all of the major neurotransmitter systems, behavioral pharmacology and addition, approaches to molecular and cellular physiology including photoactivated biomolecules, electrophysiology, phosphorylation.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
+- id: PHRM 508S 
+  title: Fundamentals in Neuropharmacology 
+  cred: 1.5
+  desc: This is an interactive and interdisciplinary course that introduces students to fundamental aspects of neuropharmacology. It is devoted to the study of drugs that affect nervous tissue and alter behaviors. The course will give an introduction to pharmacokinetics, receptor binding theory, signal transduction, neurochemical methods, and behavioral pharmacology. This is followed by lectures on individual neurotransmitter systems. The course will be taught at Drexel University College of Medicine.
+  unit: COM School of Biomedical Sciences & Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: >
+      IDPT 521 [Min Grade: B] or IDPT 550 [Min Grade: B] 
+- id: BMES 685 
+  title: Experimental Methods in Neuroengineering 
+  cred: 2.0 
+  desc: >-
+      This course explores an exciting field of neuroengineering, brain computer interfaces (BCI), in a hands-on laboratory setting. The course addresses both the human and computational elements of the technology emphasizing an engineering perspective while utilizing and modifying common paradigms in electroencephologram (EEG)-based BCIs such as motor imagery and the P300 speller. Students are expected to understand the EEG signal and develop good recording techniques to assess and modify data collection and processing in real time. This course will also discuss how the techniques and algorithms addressed in this class translate to other modalities such as fNIR as well as more invasive systems. This course includes a lecture and laboratory component.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 710 
+  title: Neural Signals 
+  cred: 3.0 
+  desc: This course covers aspects of neural signaling, including fundamentals of action potential generation, generator potentials, synaptic potentials, and second messenger signals. Students learn Hodgkin-Huxeley descriptions, equivalent circuit representations and be able to derive and integrate descriptive equations and generate computer simulations.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 710 [Min Grade: B] 
+- id: BMES 722 
+  title: Neural Aspects of Posture and Locomotion I 
+  cred: 3.0 
+  desc: >-
+      Studies physiology of sensory/motor systems, with emphasis on modeling of neural systems and biomechanical aspects of functional tasks. Begins with an analysis of the transportation of materials in and out of cells, followed by an examination of the origin and maintenance of membrane potentials. Discusses intra-and extracellular and surface measurement of potentials, generation and transmission of action potentials, synaptic processes, and the structure/function of muscle. Combines these elements to study reflex systems as well as vestibular and ocular effects on posture. Culminates in the study of the control of motor systems with respect to bipedal locomotion.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 725 
+  title: Neural Networks 
+  cred: 3.0 
+  desc: Explores the mathematical and biological bases for neurocomputing. Involves construction by students of computer simulations of important models and learning algorithms. Discusses applications to pattern recognition, vision, speech, control, and psychological modeling.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: MATH 723 
+  title: Mathematical Neuroscience 
+  cred: 3.0 
+  desc: This is an introduction to mathematical and computational techniques for analyzing neuronal models. Topics include conductance based models, neuronal excitability, bursting, neural networks, and compartmental models, as well as phase plane analysis, slow-fast systems, elements of applied bifurcation theory, and simulating differential equation models using MATLAB.
+  unit: College of Arts and Sciences
+  repeat: 
+  prereq: 
+- id: BMES 501 
+  title: Medical Sciences I 
+  cred: 3.0 
+  desc: First course in a three-course sequence designed to acquaint students with the fundamentals of biology and physiology from an engineering perspective. This first course covers evolution, genetics, molecular biology and basic cellular physiology.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 502 
+  title: Medical Sciences II 
+  cred: 3.0 
+  desc: Second course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This second course covers important concepts in cell physiology and highlights applications of these concepts in biomedical engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 501 [Min Grade: C] 
+- id: BMES 503 
+  title: Medical Sciences III 
+  cred: 3.0 
+  desc: Third course in a three-course sequence designed to introduce students to the fundamentals of biology and physiology from an engineering perspective. This third course focuses on understanding physiology from the cellular to systems scales, with an emphasis on biological control systems and applications in biomedical engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 502 [Min Grade: C] 
+- id: BMES 528 
+  title: Pediatric Engineering I 
+  cred: 3.0 
+  desc: This course will introduce students to concepts related to childhood injury and disease and to current treatment paradigms for pediatric patients. The objective is for students to develop a fundamental understanding of childhood injury and disease, healthcare, and treatment strategies which underscore the need for new and innovative therapies for pediatric patients. Instructors will discuss how the needs of pediatric patients vary considerably due to differences in size, rates of growth, critical development periods, anatomy, physiological differences, and physical activity levels.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 529 
+  title: Pediatric Engineering II 
+  cred: 3.0 
+  desc: This course will leverage the content from BMES 528 by introducing students to the challenges and limitations of current treatment paradigms for pediatric patients and by studying the landscape of pediatric medical device development. Focus will be on the scientific and engineering concepts, methods, and approaches to address healthcare challenges with direct relevance to pediatric patients, including pediatric medical devices and unmet clinical needs. There is and has been a compelling and recognized need for the development of new medical devices and therapies for pediatric patients. The objective is to train the next-generation of students for future scientific and technical careers in pediatric engineering, healthcare, entrepreneurship, and innovation that will have a lasting impact on global health.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 528 [Min Grade: B-] 
+- id: BMES 551 
+  title: Biomedical Signal Processing 
+  cred: 3.0 
+  desc: Introduces discrete time signals and systems; origin and classification of biomedical signals; data acquisition, filtering, and spectral estimation of medical signals; compression of medical signals; new processing approaches and time-frequency representation and wavelets.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 588 
+  title: Medical Device Development 
+  cred: 3.0
+  desc: Medical device product development must take into account a diverse set of disciplines to achieve a safe and successful product. This course exposes the student to several of these disciplines with the objective of raising the student's awareness of safety throughout the product development life cycle. Students will learn to appreciate the complex engineering decisions that support development of a safe medical device through an examination of risk management, regulatory processes, human factors and clinical studies.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+- id: BMES 631
+  title: Tissue Engineering I
+  cred: 4.0 
+  desc: This course is designed to familiarize students with advanced concepts of cellular and molecular biology relevant to tissue engineering. This is the initial course in a three-course sequence combining materials from life science, engineering design and biomaterials to educate students in the principles, methods and technology of tissue engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 502 [Min Grade: B] 
+- id: BMES 632 
+  title: Tissue Engineering II 
+  cred: 4.0
+  desc: This course familiarizes students with advanced concepts of developmental and evolutionary biology relevant to tissue engineering. The second part of a three-course sequence combines materials from cellular/molecular biology, evolutionary design, and biomaterials to education students in the principles and methods of tissue engineering.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: >
+    BMES 631 [Min Grade: B] 
+- id: BMES 641 
+  title: Biomedical Mechanics I 
+  cred: 4.0 
+  desc: Designed to acquaint students with the response of biological tissues to mechanical loads and with the mechanical properties of living systems. Covers topics in musculoskeletal anatomy and functional mechanics; a review of mechanical principles, statics, dynamics, and materials; soft and hard tissue mechanics; mechano-pathological conditions in biological tissues and their correction; and prosthetics.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
+

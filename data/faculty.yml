@@ -1,0 +1,23 @@
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/Bhandawat-Vikas.ashx
+  fullname: Vikas Bhandawat, PhD
+  email: vikas.bhandawat@drexel.edu
+  addr: Bossone 602
+  website: <a href="http://biomed.drexel.edu/labs/bhandawat/">Bhandawat Laboratory</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/BhandawatVikas/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    We study how animal behavior emerges from the complex interaction amongst the animal's nervous systems, their muscle-body dynamics and their environment.
+    We use fruit flies (Drosophila melanogaster) as our model organism because they perform many complex behaviors with a relatively simple brain, and because of the many genetic tools that are available in the flies.
+    We employ a multi-pronged approach which includes in vivo whole-cell patch clamp recordings, imaging, quantitative measurement of behavior, biomechanics, and computation.
+  areas: 
+    - Neuromechanics: research/neuromechanics
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/G/Simon_Giszter.ashx
+  fullname: Simon Giszter, PhD
+  email: sg33@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/faculty/profiles/simon-giszter/~/link.aspx?_id=602914B199BE4A7A8B3D19909476E6EC&_z=z">Giszter Laboratory</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/simon-giszter/">Drexel College of Medicine</a>
+  desc: >
+    Our laboratory focuses on basic mechanisms of motor control in spinal cord, and on corticospinal interactions. The focus particularly on spinal cord modularity in relation to these. 
+  areas: 
+    - Neuromechanics: research/neuromechanics
