@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 %ul.bxslider
-  %li= image_tag "https://via.placeholder.com/225x150", title: "Research Spotlight: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/neuromechanics\">Neuromechanics</a>"
+  %li= image_tag "https://via.placeholder.com/880x390", title: "Research Spotlight: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/areas\#neuromechanics\">Neuromechanics</a>"
 
 
 %h2 What is Neuroengineering?  
@@ -21,28 +21,11 @@ title: "Home"
   research interests include:
   
   %ul.unstyled.research-areas
-    %li 
-      %span.label Systems Neuroengineering
-    %li 
-      %span.label Brain-Computer Interface
-    %li 
-      %span.label Neuromorphic Engineering 
-    %li 
-      %span.label Comparative Neuroengineering
-    %li 
-      %span.label Computational Neuroengineering
-    %li 
-      %span.label Translational Neuroengineering
-    %li 
-      %span.label Human Neuroengineering
-    %li 
-      %span.label Neuromechanics
-    %li 
-      %span.label Neural Circuit Engineering
-    %li 
-      %span.label Biomaterials
-    %li 
-      %span.label Neural Tissue Enginnering
+    - data.research.each do |r|
+      %li 
+        %a{:href => "#{config[:http_prefix]}research/areas/\##{r.url}"}
+          %span.label 
+            = r.topic
 
 %p.big-text 
   %strong Is Neuroengineering for you? 
@@ -50,7 +33,7 @@ title: "Home"
 
 %p.big-text
   %strong How to prepare for a graduate education in Neuroengineering? 
-  The ideal candidate will have a 
+  The ideal candidate will have: 
   %br
   1) strong quantitative training through coursework in mathematics and computer sciences, 
   %br

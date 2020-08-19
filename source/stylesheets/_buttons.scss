@@ -10,3 +10,12 @@ a.more-link {
   line-height: 14px;
   background: image-url("sprite.png") no-repeat scroll 0 -422px;
 }
+
+.topic:target { /*when the anchor is active (clicked)*/
+   animation: myanimation 5s;
+}
+
+@keyframes myanimation {
+   from { background: #ffff8f; }
+   to { background: none; /*or whatever it was originally*/ }
+}

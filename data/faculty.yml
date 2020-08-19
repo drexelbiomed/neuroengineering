@@ -9,7 +9,9 @@
     We use fruit flies (Drosophila melanogaster) as our model organism because they perform many complex behaviors with a relatively simple brain, and because of the many genetic tools that are available in the flies.
     We employ a multi-pronged approach which includes in vivo whole-cell patch clamp recordings, imaging, quantitative measurement of behavior, biomechanics, and computation.
   areas: 
-    - Neuromechanics: research/neuromechanics
+    - Neuromechanics: research/areas#neuromechanics
+    - Systems Neuroengineering: research/areas#systems
+    - Computational Neuroengineering: research/areas#computational
 
 - photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/G/Simon_Giszter.ashx
   fullname: Simon Giszter, PhD
@@ -20,4 +22,5 @@
   desc: >
     Our laboratory focuses on basic mechanisms of motor control in spinal cord, and on corticospinal interactions. The focus particularly on spinal cord modularity in relation to these. 
   areas: 
-    - Neuromechanics: research/neuromechanics
+    - Neuromechanics: research/areas#neuromechanics
+    - Comparative Neuroengineering: research/areas#comparative

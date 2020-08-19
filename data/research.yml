@@ -1,0 +1,33 @@
+- topic: Systems Neuroengineering
+  desc: Superficially, it might appear that different brain regions are important for different tasks. In reality, different regions in the brain are densely connected through neuronal pathways. Systems Neuroengineering is aimed at understanding the inner workings of the brain at a systems level or whole-brain level through a variety of state-of-the-art experimental and computational techniques. 
+  url: systems
+- topic: Brain-computer interface
+  desc: Research in Brain-computer interface or BCI is aimed at reading signals from the brain through a variety of methods such as surface or implanted electrodes and connects it to a device to carry out a desired action. BCI is a promising solution for many conditions in which the brain is intact but either the connection between brain and body is damaged through accident or neurodegeneration or the musculo-skeletal system is affected.
+  url: bci
+- topic: Neuromorphic Engineering
+  desc: Neuromorphic engineering is aimed at using “neuron-like” devices and connectivity patterns in biological brains to create synthetic nervous systems. The driving principle is to emulate the low power requirements and unique computing abilities of biological networks.
+  url: neuromorphic
+- topic: Comparative Neuroengineering
+  desc: The nervous systems of different animals have shared architecture as well as differences. By analyzing species similarity and differences in brain sturcture, function, and behavior, comparative neuroengineering uncovers general principles of brain function that helps us understand the short-cuts that evolution has taken and aids in understanding disease.  
+  url: comparative
+- topic: Computational Neuroengineering
+  desc: Computational neuroengineering is aimed at building mathematical or computer models from biological data. Computational neuroengineering also provides theoretical framework for interpreting data and for designing better experiments. Computation Neuroengineering involves modeling at multiple scales including modeling of single neurons, neuronal circuits, and the entire brain.
+  url: computational
+- topic: Translational neuroengineering
+  desc: Translational neuroengineering is concerned with specific disease processes and therapies and the path from basic science and engineering to clinical application. The long term goals are clinically relevant devices and therapies. The research itself can be animal model based, or foundational engineering, or more direct pre-clinical testing processes, but the focus is to move knowledge and technology along the pipeline to clinic.
+  url: translational
+- topic: Human Neuroengineering
+  desc: Human Neuroengineering ranges from clinical applications to recreational interface devices for games. At Drexel it is generally non-invasive, utilizing FNIR, EEG and other tools. In some instances at Drexel data collected invasively in clinical settings such as during neurosurgery or pre-operative testing may be the focus, but most work is less so.
+  url: human
+- topic: Neuromechanics
+  desc: Neuromechanics investigates the neural control and co-adaptations of  neural and biomechanics systems throughout motor systems. Neuromechanics topics can range from the human gait lab to the swimming of fish, frog protective reflexes, or the walking and evasion manoevres of fruit flies. The field is a marriage of mechanics and neural control principles and draws from both, interfacing closely with neural circuit analyses/ 
+  url: neuromechanics
+- topic: Neural circuit engineering
+  desc: Neural circuit engineering investigates the neural control implementation details and their analyses through simulation and recording. The effort is to reverse engineer neural circuitry to understand its organizational and information processing principles, dynamics, and the opportunities for intervention and therapy.
+  url: neural-circuit
+- topic: Neural-related Biomaterials
+  desc: Biomaterials understanding is key to any neural recording or interface systems. Neural tissue is a unique mixture of sophisticated information processing, and its energetics, support requirements, and mechanical fragility or robustness. Managing these in interventions and interfaces through materials understanding is the focus.
+  url: biomaterials
+- topic: Neural Tissue Engineering
+  desc: Neural tissue engineering seeks to grow, manipulate and repair neural systems using combinations of the intrinsic neural tissues, neural transplanted and modified tissues, novel biomaterials and cellular controls. The major goal is to repair the damages leading to disease through neural manipulations in vivo or in vitro and their combinations.
+  url: tissue-engineering

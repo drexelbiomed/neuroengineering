@@ -1,0 +1,11 @@
+---
+title: Research Areas
+---
+
+%h1= current_resource.data.title
+
+- data.research.each do |r|
+  %p.topic{:id => r.url}
+    %strong= r.topic
+    %br
+    = r.desc
