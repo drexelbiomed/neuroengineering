@@ -5,6 +5,14 @@
   unit: COM School of Biomedical Sciences and Professional Studies
   repeat: Not repeatable for credit 
   prereq: 
+- id: NEUR 607S
+  title: Integrated Neuroscience
+  cred: 4.0
+  desc: >-
+    This is a core course required of all graduate students in the Neuroscience Program. The prerequisite is completion of Medical Neuroscience. The course meets twice weekly during the fall semester for 2 hour sessions, which include a mix of lecture and discussion. The course emphasizes critical evaluation of experimental methods used for investigation problems in the organization and function of the central nervous system. One major goal of the course is to teach the students a system approach to analyzing the CNS control of behavior and physiology. The topics that are chosen to illustrate these principles of organization include sensorimotor integration; CNS development; neurochemical anatomy: sites and mechanism underlying regulation if ingestion, responses to stress and sexual behavior: central mechanisms of award, learning and memory: and recovery of function after CNS damage. An important second goal is to relate activity at the systems level to underlying cellular and molecular mechanisms. These strategies discussed throughout the course but especially in development; genetic basis of psychopathology: CNS injury and recovery; and use of molecular techniques for modulating behavior. The students are required to write four papers covering information from four separate blocks of the course and one final paper comparing the uses of transgenic knockouts, inducible knockouts and antisense approaches for studying a system of the student's choice. These papers are read by the faculty and defended by the students.
+  unit: COM School of Biomedical Sciences and Professional Studies
+  repeat: Not repeatable for credit 
+  prereq: 
 - id: NEUR 508S 
   title: Graduate Neuroscience
   cred: 2.5

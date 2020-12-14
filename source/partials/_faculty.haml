@@ -1,26 +1,30 @@
 - data.faculty.each do |f|
   .row
-    .small-6.large-3.columns
-      %img{:src => f.photo, :alt => f.fullname, :style => "width: 100px;"}
+    .small-12.large-5.columns
+      %img{:src => f.photo, :alt => f.fullname, :style => "width: 150px;"}
       %p
         %strong
           = f.fullname
         %br
+        %strong Email:
         = mail_to f.email
         %br
+        %strong Office:
         = f.addr
-        %br
-        = f.website
-    .small-6.large-3.columns
+        
+    .small-12.large-7.columns
       %p
-        %br
-        = f.affil
-    .small-12.large-6.columns
-      %p
+        %strong Research: 
         = f.desc
       %p
         - f.areas.each do |a|
           %span.label
             = link_to a.keys[0], config[:http_prefix] + a.values[0]
 
+      %p
+        %strong Website: 
+        = f.website
+        %br
+        %strong Faculty Profile:
+        = f.affil
   %hr

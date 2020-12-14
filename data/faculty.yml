@@ -24,3 +24,119 @@
   areas: 
     - Neuromechanics: research/areas#neuromechanics
     - Comparative Neuroengineering: research/areas#comparative
+
+
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/Izzetoglu-Kurtulus.ashx
+  fullname: Kurtulus Izzetoglu, PhD
+  email: ki25@drexel.edu
+  addr: '215.895.1579'
+  website: <a href="http://drexel.edu/conquer/">CoNQuER Collaborative</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/IzzetogluKurtulus/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    Our research interests are mainly in the areas of human and translational neuroengineering. In human neuroenginering, we particularly focus on the integration of neurophysiological sensors, such as functional near infrared spectroscopy (fNIRS), electroencephalogram (EEG), and also eye-tracking for personalized training in safety critical tasks; brain-in-the-loop studies to improve human autonomy teaming and training both in clinical (nurse, surgeon training) and in aviation (autonomous systems); and effects of immersive technologies, such as virtual reality (VR) manipulative interventions on learning. In translational neuroengineering,  our laboratory primarily focuses on sensor and algorithm development for anesthesia, sedation monitoring; point-of-care monitoring in prolonged field care including cerebral edema and local tissue oximetry; blood flow measures for hemorrhage assessment and management; and study of biomarkers for the traumatic brain injury. 
+  areas: 
+    - Human Neuroengineering: research/areas#human
+    - Translational Neuroengineering: research/areas#translational
+
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/R/Ilya_Rybak.ashx
+  fullname: Ilya Rybak, PhD
+  email: rybak@drexel.edu
+  addr: 2900 W. Queen Lane 
+  website: <a href="http://www.rybak-et-al.net/index.html">Laboratory for Theoretical and Computational Neuroscience</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/ilya-rybak/">Drexel College of Medicine</a>
+  desc: >
+    Our computational and modeling studies focus on the neural circuits in the spinal cord involved in control of locomotion and the brainstem neural mechanisms responsible for neural control of breathing.
+  areas: 
+    - Computational Neuroengineering: research/areas#computational
+    - Systems Neuroengineering: research/areas#systems
+    - Neural circuit engineering: research/areas#neural-circuit
+    - Neuromechanics: research/areas#neuromechanics
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/A/Jessica_Ausborn.ashx
+  fullname: Jessica Ausborn, PhD
+  email: ja696@drexel.edu
+  addr: 2900 W. Queen Lane, Rm 252
+  website: <a href="http://biomed.drexel.edu/labs/bhandawat/">Bhandawat Laboratory</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/jessica-ausborn/">Drexel College of Medicine</a>
+  desc: >
+    We study how animal behavior emerges from the complex interaction amongst the animal's nervous systems, their muscle-body dynamics and their environment.
+    We use fruit flies (Drosophila melanogaster) as our model organism because they perform many complex behaviors with a relatively simple brain, and because of the many genetic tools that are available in the flies.
+    We employ a multi-pronged approach which includes in vivo whole-cell patch clamp recordings, imaging, quantitative measurement of behavior, biomechanics, and computation.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Comparative Neuroengineering: research/areas#comparative
+    - Computational Neuroengineering: research/areas#computational
+    - Neural circuit engineering: research/areas#neural-circuit
+
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/liang-hualou.ashx
+  fullname: Hualou Liang, PhD
+  email: hualou.liang@drexel.edu
+  addr: Monell 103
+  website: <a href="https://liang-lab.org">Liang Laboratory</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/LiangHualou/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    Dr. Liang's research is focused on neural data science, machine learning, and biomedical natural language processing. The lab uses data science to advance a broad range of topics, including 1) causal discovery in big neuroscience data (spikes, LFP, EEG/MEG and fMRI), 2) machine learning for brain age prediction via integrating genetic, neuroimaging, and clinical data, and 3) deep learning for biomedical text mining, drug labeling review and drug discovery. 
+  areas: 
+    - Computational Neuroengineering: research/areas#computational
+
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/von-reyn-catherine.ashx
+  fullname: Catherine Von Reyn, PhD
+  email: catherine.r.vonreyn@drexel.edu
+  addr: Bossone 503
+  website: <a href="http://biomed.drexel.edu/labs/nce/">Neural Circuit Engineering (NCE) Laboratory</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/vonReynCatherine/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    We investigate neural circuits that underlie sensorimotor transformations. We employ and develop novel tools that enable us to reengineer these circuits to understand how they function at the molecular to network level, and to understand the developmental processes that lead to their organization.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Comparative Neuroengineering: research/areas#comparative
+    - Computational Neuroengineering: research/areas#computational
+    - Neural circuit engineering: research/areas#neural-circuit
+
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/D/simon-danner.ashx
+  fullname: Simon Danner, PhD
+  email: simon.danner@drexelmed.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/faculty/profiles/simon-danner/~/link.aspx?_id=5E611D594E0E42B3827008F29E5BF1A0&_z=z">The Danner Lab</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/simon-danner/">Drexel College of Medicine</a>
+  desc: >
+    Our laboratory studies the operation of the neural circuits controlling locomotion. Specifically, we are interested in understanding the connectivity and function of the spinal circuits, how they integrate feedback from somatosensory afferents and commands from supraspinal centers, and how their operation is changed after motor disorders (such as spinal cord injury). We employ computational methods (neural network and musculoskeletal modeling) and work in close collaboration with experimentalists. These computational techniques provide us with excellent tools to investigate dynamic interactions between the different components of the locomotor system and allow us to incorporate a wealth of experimental findings into cohesive, integrated models that can then be used to derive hypotheses and guide future experiments.
+  areas: 
+    - Computational Neuroengineering: research/areas#computational
+    - Translational Neuroengineering: research/areas#translational
+    - Neuromechanics: research/areas#neuromechanics
+    - Human Neuroengineering: research/areas#human
+    - Neural circuit engineering: research/areas#neural-circuit
+
+
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/zhong-yingui.ashx
+  fullname: Yinghui Zhong, PhD
+  email: yz348@drexel.edu
+  addr: Bossone 716
+  website: <a href="https://drexel.edu/biomed/faculty/core/ZhongYinghui/">Zhong Faculty Profile</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/ZhongYinghui/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    Our research is focused on developing therapies including drug delivery, biomaterial scaffolds, stem cells, and therapeutic nanoparticles for applications including neural tissue engineering, spinal cord repair, cardiovascular diseases.
+  areas: 
+    - Neural-related Biomaterials: research/areas#biomaterials
+    - Neural Tissue Engineering: research/areas#tissue-engineering
+    - Brain-computer Interface: research/areas#bci
+    - Translational Neuroengineering: research/areas#translational
+
+- photo: https://drexel.edu/~/media/Images/biomed/faculty/ayaz-hasan.ashx
+  fullname: Hasan Ayaz, PhD
+  email: hasan.ayaz@drexel.edu
+  addr: Monell 101
+  website: <a href="https://drexel.edu/conquer/">CONQUER Collaborative</a>
+  affil: <a href="https://drexel.edu/biomed/faculty/core/AyazHasan/">Drexel School of Biomedical Engineering, Science and Health Systems</a>
+  desc: >
+    We are focused on understanding human brain function using mobile neuroimaging and body sensing in realistic and real-world environments with complex cognitive tasks, across the lifespan and from healthy (typical to specialized groups) to diverse clinical conditions (mental health to neurological).  Our lab  is part of the Cognitive Neuroengineering and Quantitative Experimental Research (CoNQuER) Collaborative (drexel.edu/conquer), a brain observatory that is equipped with state-of-the-art brain and body sensors, as well as electronic design, assembly and testing facilities for new sensor development. 
+  areas: 
+    - Neuroergonomics: research/areas#ergonomics
+    - Brain-computer Interface: research/areas#bci
+    - Neurotechnology: research/areas#technology
+    - Human Neuroengineering: research/areas#human
+
+
