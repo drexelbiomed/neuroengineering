@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 %ul.bxslider
-  %li= image_tag "https://via.placeholder.com/880x390", title: "Research Spotlight: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/areas\#neuromechanics\">Neuromechanics</a>"
+  %li= image_tag "neuro-page-image.jpg", title: "Research Area Spotlight: <br><a class=\"more-link\" href=\"#{config[:http_prefix]}research/areas\#bci\">Brain-computer Interface</a>"
 
 
 %h2 What is Neuroengineering?  
@@ -19,17 +19,22 @@ title: "Home"
   = link_to "College of Medicine", "https://drexel.edu/medicine" 
   , to educate the next generation of interdisciplinary brain scientists and bioengineers, by creating teams of students with a shared common language and similar quantitative bases and frameworks, even though each one originates from different original disciplines of expertise.
 
-%p.big-text 
-  The 
-  = link_to "faculty", "#{config[:http_prefix]}faculty/overview"
-  research interests include:
-  
-  %ul.unstyled.research-areas
-    - data.research.each do |r|
-      %li 
-        %a{:href => "#{config[:http_prefix]}research/areas/\##{r.url}"}
-          %span.label 
-            = r.topic
+.row
+  .large-6.columns 
+    %h2 Research Areas
+    %p.big-text 
+      The 
+      = link_to "faculty", "#{config[:http_prefix]}faculty/overview"
+      research interests include:
+      
+      %ul.unstyled.research-areas
+        - data.research.each do |r|
+          %li 
+            %a{:href => "#{config[:http_prefix]}research/areas/\##{r.url}"}
+              %span.label 
+                = r.topic
+  .large-6.columns  
+    = image_tag "brain-guitar.jpg", alt: "Drexel Brain Mapping Project"
 
 %p.big-text 
   %strong Is Neuroengineering for you? 
@@ -48,8 +53,7 @@ title: "Home"
 %p.big-text
   However, since Neuroengineering is highly interdisciplinary, a grounding in many different STEM disciplines is a good starting point for Neuroengineering. 
 
-%p.big-text
-  %strong Plans of Study in Neuroengineering
+%h2 Plans of Study
 
 %p.big-text
   In keeping with this understanding of Neuroengineering breadth and needs there are currently two routes into Neuroengineering concentrations across the campus:
