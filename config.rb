@@ -79,6 +79,7 @@ end
 
 configure :build do
   ignore '*.psd'
+  ignore '*.tif'
   ignore 'fonts/**'
   activate :minify_css
   activate :minify_javascript
