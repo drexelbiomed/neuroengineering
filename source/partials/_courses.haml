@@ -3,10 +3,10 @@
     - data.courses.each do |c|
       %tr
         %td
+          %h5= c.id
+          %h3= c.title
           %p
             %strong
-              = c.id
-              = c.title
               = c.cred
               Credits
           %p

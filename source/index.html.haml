@@ -37,8 +37,8 @@ title: "Home"
       %ul.unstyled.research-areas
         - data.research.each do |r|
           %li 
-            %a{:href => "#{config[:http_prefix]}research/areas/\##{r.url}"}
-              %span.label 
+            %span.label 
+              %a{:href => "#{config[:http_prefix]}research/areas/\##{r.url}", "data-tooltip" => "", "aria-haspopup" => "true", class:"has-tip tip-right", title: r.desc[0..180]+"..."}
                 = r.topic
   .large-6.columns  
     = image_tag "brain-guitar.jpg", alt: "Drexel Brain Mapping Project"

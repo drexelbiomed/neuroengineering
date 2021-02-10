@@ -43,7 +43,7 @@
   repeat: Not repeatable for credit
   prereq: 
 - id: PHRM 507S 
-  title: Prin of Neuropharmacology 
+  title: Principles of Neuropharmacology 
   cred: 3.0 
   desc: This course covers basic concepts in Neuropharmacology, all of the major neurotransmitter systems, behavioral pharmacology and addition, approaches to molecular and cellular physiology including photoactivated biomolecules, electrophysiology, phosphorylation.
   unit: COM School of Biomedical Sciences & Professional Studies
@@ -71,8 +71,14 @@
   desc: This course covers aspects of neural signaling, including fundamentals of action potential generation, generator potentials, synaptic potentials, and second messenger signals. Students learn Hodgkin-Huxeley descriptions, equivalent circuit representations and be able to derive and integrate descriptive equations and generate computer simulations.
   unit: School of Biomedical Engineering, Science & Health Systems
   repeat: 
-  prereq: >
-    BMES 710 [Min Grade: B] 
+  prereq: 
+- id: BMES 718
+  title: Brain Computer Interfaces
+  cred: 3.0 
+  desc: This course will familiarize students with principles and main methods in the emerging and rapidly growing field of brain computer interface (BCI) technologies. BCI is defined as a combination of hardware and software that allows user’s brain activities to control or interact with external devices such as computers and robots. The research in this field has attracted academia and industry alike. As building blocks of BCI systems, basic background on non-invasive and wearable brain sensing technologies will be provided such as Electroencephalogram (EEG), and functional Near Infrared Spectroscopy (fNIRS) based functional neuroimaging. Current state of the art protocols, approaches, challenges, problems, and prospects will be highlighted along with a discussion of multimedia/gaming and clinical applications.
+  unit: School of Biomedical Engineering, Science & Health Systems
+  repeat: 
+  prereq: 
 - id: BMES 722 
   title: Neural Aspects of Posture and Locomotion I 
   cred: 3.0 

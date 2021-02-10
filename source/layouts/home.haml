@@ -11,11 +11,11 @@
     %link{:rel => "shortcut icon", :href => config[:http_prefix] + "images/FavIcon.ico"}
 
     = javascript_include_tag "modernizr"
-    / = partial "gtm-head"
+    = partial "partials/gtm-head"
     = partial "partials/css"
 
   %body{ :class => page_classes }
-    / = partial "gtm-body"
+    = partial "partials/gtm-body"
     = partial "partials/bg-image"
     .height
       .container

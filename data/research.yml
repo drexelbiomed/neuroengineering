@@ -26,7 +26,7 @@
   desc: Human Neuroengineering ranges from clinical applications to recreational interface devices for games. At Drexel it is generally non-invasive, utilizing FNIR, EEG and other tools. In some instances at Drexel data collected invasively in clinical settings such as during neurosurgery or pre-operative testing may be the focus, but most work is less so.
   url: human
 - topic: Neuromechanics
-  desc: Neuromechanics investigates the neural control and co-adaptations of  neural and biomechanics systems throughout motor systems. Neuromechanics topics can range from the human gait lab to the swimming of fish, frog protective reflexes, or the walking and evasion manoevres of fruit flies. The field is a marriage of mechanics and neural control principles and draws from both, interfacing closely with neural circuit analyses/ 
+  desc: Neuromechanics investigates the neural control and co-adaptations of  neural and biomechanics systems throughout motor systems. Neuromechanics topics can range from the human gait lab to the swimming of fish, frog protective reflexes, or the walking and evasion manoevres of fruit flies. The field is a marriage of mechanics and neural control principles and draws from both, interfacing closely with neural circuit analyses. 
   url: neuromechanics
 - topic: Neural circuit engineering
   desc: Neural circuit engineering investigates the neural control implementation details and their analyses through simulation and recording. The effort is to reverse engineer neural circuitry to understand its organizational and information processing principles, dynamics, and the opportunities for intervention and therapy.

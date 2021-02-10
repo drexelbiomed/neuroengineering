@@ -19,3 +19,16 @@ a.more-link {
    from { background: #ffff8f; }
    to { background: none; /*or whatever it was originally*/ }
 }
+
+span.label {
+  background: #ffc600;
+  a { 
+    color: #07294d;
+    &:hover {
+      color: #07294d;
+    }
+  }
+  &:hover {
+    background: #FF8F1C;
+  }
+}
