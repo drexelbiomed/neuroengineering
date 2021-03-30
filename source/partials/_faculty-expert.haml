@@ -1,11 +1,10 @@
-- data.faculty.each do |f|
+- data.facultyExpert.each do |f|
   .row
     .small-12.large-5.columns
       %img{:src => f.photo, :alt => f.fullname, :style => "width: 120px;"}
+      %h5
+        = f.fullname
       %p
-        %strong
-          = f.fullname
-        %br
         %strong Email:
         = mail_to f.email
         %br

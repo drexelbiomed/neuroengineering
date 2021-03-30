@@ -1,0 +1,24 @@
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/W/dong-wang.ashx
+  fullname: Dong Wang, PhD
+  email: dong.wang@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/about/departments/neurobiology-anatomy/research/wang-lab/">The Wang Lab</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/dong-wang/">Drexel College of Medicine</a>
+  desc: >
+    We study neural circuit dynamics underlying memory formation, with a focus on hippocampus associated circuitry. Our research employs a multidisciplinary approach, including optogenetics, multi-channel electrophysiology, calcium imaging, closed-loop control, and machine learning.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Neural Circuit Engineering: research/areas#neural-circuit
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/E/Rodrigo_Espana.ashx
+  fullname: Rodrigo A. España, PhD
+  email: rae39@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/about/departments/neurobiology-anatomy/research/espana-lab/">The España Lab</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/Rodrigo-España/">Drexel College of Medicine</a>
+  desc: >
+    Dr. España’s research focuses on the neural circuits underlying motivated behavior and the interface between arousal state and effortful responding for natural and drug rewards. Experimental techniques include electrophysiology, optogenetics, chemogenetics, fast scan cyclic voltammetry and a variety of modern genetic tools to interrogate the mechanisms underlying behavior. Evolving projects are focused on closed-loop approaches to query arousal state using electrophysiology so as to guide activation or inhibition of pathways of interest to alter motivation for rewards. Although much of the research surrounds dopaminergic pathways and mechanisms that support substance abuse, discoveries in the laboratory extend to other transmitters systems, pathways and behaviors.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Brain-computer Interface: research/areas#bci
+    

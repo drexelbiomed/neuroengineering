@@ -50,7 +50,7 @@
   areas: 
     - Computational Neuroengineering: research/areas#computational
     - Systems Neuroengineering: research/areas#systems
-    - Neural circuit engineering: research/areas#neural-circuit
+    - Neural Circuit Engineering: research/areas#neural-circuit
     - Neuromechanics: research/areas#neuromechanics
 
 - photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/A/Jessica_Ausborn.ashx
@@ -138,5 +138,61 @@
     - Brain-computer Interface: research/areas#bci
     - Neurotechnology: research/areas#technology
     - Human Neuroengineering: research/areas#human
+
+
+- photo: https://drexel.edu/~/media/Images/cci/Faculty/Ed-Kim.ashx
+  fullname: Edward Kim, PhD
+  email: ek826@drexel.edu
+  addr: "1151"
+  website: <a href="http://www.pages.drexel.edu/~ek826/sparselab/">Sparse Coding Lab</a>
+  affil: <a href="https://drexel.edu/cci/about/directory/K/kim-edward/">Drexel College of Computing and Informatics</a>
+  desc: >
+    We are exploring AI frameworks that mimic how the mammalian brain senses and understands the world. Our goal is to develop an AI system will learn much like an infant learns, by simply observing the world and learning through observation. Eventually, the model should learn the structure of the world and existing associations, and accurately make predictions. We are using neuromorphic software and hardware concepts such as sparse coding, top-down feedback, spiking neural networks, and neuronal dynamics to create a machine intelligence that has a better understanding of the world in which we live.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Neuromorphic Engineering: research/areas#neuromorphic
+    - Computational Neuroengineering: research/areas#computational
+
+
+- photo: https://drexel.edu/~/media/Images/engineering/people/faculty/das-anup.ashx
+  fullname: Anup Das, PhD
+  email: anup.das@drexel.edu
+  addr: Bossone 603
+  website: <a href="http://www.anupdas.com/">Personal Site</a>
+  affil: <a href="https://drexel.edu/engineering/about/faculty-staff/D/das-anup/">Drexel College of Engineering</a>
+  desc: >
+    Dr. Das directs the Distributed, Intelligent, and Scalable COmputing (DISCO) lab at the Electrical and Computer Engineering Department. His research focuses on Machine Learning and Computer Architecture. The DISCO lab uses Spiking Neural Networks (SNNs) to implement biomedical and computer vision applications, which are mapped onto VLSI implementation of the central nervous system, also known as neuromorphic computing. The DISCO lab is currently exploring material characteristics of chalcogenide alloys to implement spiking neurons and bio-inspired learning rules for energy-efficient and reliable neuromorphic computing.
+  areas: 
+    - Neuromorphic Engineering: research/areas#neuromorphic
+    - Computational Neuroengineering: research/areas#computational
+
+
+- photo: https://drexel.edu/~/media/Images/coas2/profiles/medaglia-john.ashx
+  fullname: John Medaglia, PhD
+  email: John.D.Medaglia@drexel.edu
+  addr: 322 Stratton Hall
+  website: <a href="www.cognew.com">CogNeW Lab</a>
+  affil: <a href="https://drexel.edu/coas/faculty-research/faculty-directory/medaglia-john/">Drexel College of Arts and Science</a>
+  desc: >
+    At the intersection of cognitive neuroscience, neuropsychology, and neuroengineering, the Cognitive Neuroengineering and Wellbeing (CogNeW) laboratory examines how to use neural control to improve cognition. Using network neuroscience techniques, we focus on individual differences in brain-behavior relationships and responses to brain stimulation using anatomical and functional imaging in health and neurological diseases. We also have interests in the fast-emerging developments in neuromodulation and ethical quandries that they can induce. Accordingly, we study the psychology of neuroethical decision making in the public, patients, and clinicians to conduct policy-related research.
+  areas: 
+    - Brain-computer Interface: research/areas#bci
+    - Neurotechnology: research/areas#technology
+    - Translational Neuroengineering: research/areas#translational
+    - Systems Neuroengineering: research/areas#systems
+    - Computational Neuroengineering: research/areas#computational
+    - Human Neuroengineering: research/areas#human
+
+
+- photo: https://drexel.edu/~/media/Images/coas2/profiles/georgi-medvedev.ashx
+  fullname: Georgi Medvedev, PhD
+  email: medvedev@drexel.edu
+  addr: Korman Center 222
+  website: <a href="math.drexel.edu/~medvedev">Personal Site</a>
+  affil: <a href="https://drexel.edu/coas/faculty-research/faculty-directory/GeorgiMedvedev/">Drexel College of Arts and Science</a>
+  desc: >
+    My area of expertise includes differential equations, dynamical systems, probability, and their applications to problems in physics and biology. My research helps to understand how the properties of individual neurons, the types and the structure of connections between them, and noise contribute to formation of activity patterns in large neuronal networks.
+  areas: 
+    - Computational Neuroengineering: research/areas#computational
 
 
