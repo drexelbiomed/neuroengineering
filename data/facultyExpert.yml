@@ -21,4 +21,42 @@
   areas: 
     - Systems Neuroengineering: research/areas#systems
     - Brain-computer Interface: research/areas#bci
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/C/Marie-Pascale_Cote.ashx
+  fullname: Marie-Pascale Côté, PhD
+  email: mc849@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://cote-lab.org">The Cote Lab</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/Marie-Pascale-Côté/">Drexel College of Medicine</a>
+  desc: >
+    The Côté lab laboratory focuses on fostering motor control after spinal cord injury, with a focus on rehabilitative strategies and the underlying mechanisms at play. Our research uses a multidisciplinary approach to reengineer motor pathways after injury and probe their function, including motor training, kinematics and biomechanics, spinal cord stimulation, and other state-of-the-art techniques in electrophysiology.
+  areas: 
+    - Neural Circuit Engineering: research/areas#neural-circuit
+    - Neuromechanics: research/areas#neuromechanics
+    - Translational Neuroengineering: research/areas#translational
+
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/D/Kimberly_Dougherty.ashx
+  fullname: Kimberly J. Dougherty, PhD
+  email: kjd86@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/faculty/profiles/kimberly-dougherty/~/link.aspx?_id=FE6517D3F9E74F2F89746FA9F7019D73&_z=z">The Dougherty Lab</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/kimberly-dougherty/">Drexel College of Medicine</a>
+  desc: >
+    The goals of the work in our lab are to reveal the functional connectivity of spinal circuits involved in orchestrating locomotion and to determine how these circuits go awry in injury and disease states. Our current focuses are on mechanisms of locomotor rhythm generation and plasticity following both spinal cord injury and potential treatments for restoration of motor function.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Neural Circuit Engineering: research/areas#neural-circuit
+
+- photo: https://drexel.edu/~/media/Images/medicine/profile-headshots/D/Megan_Detloff.ashx
+  fullname: Megan R. Detloff, PhD
+  email: mrd64@drexel.edu
+  addr: 2900 W. Queen Lane
+  website: <a href="https://drexel.edu/medicine/faculty/profiles/megan-detloff/">Personal Website</a>
+  affil: <a href="https://drexel.edu/medicine/faculty/profiles/megan-detloff/">Drexel College of Medicine</a>
+  desc: >
+    We study how injury and rehabilitative exercise modulates pain and sensorimotor function following spinal cord injury. We use a multidisciplinary approach which includes assessments of animal behavior, kinematics and electrophysiology as well as assessments of molecular changes in neuron and immune cell phenotypes.
+  areas: 
+    - Systems Neuroengineering: research/areas#systems
+    - Translational Neuroengineering: research/areas#translational
     

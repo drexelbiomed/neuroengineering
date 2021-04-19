@@ -20,10 +20,12 @@
   website: <a href="https://drexel.edu/medicine/faculty/profiles/simon-giszter/~/link.aspx?_id=602914B199BE4A7A8B3D19909476E6EC&_z=z">Giszter Laboratory</a>
   affil: <a href="https://drexel.edu/medicine/faculty/profiles/simon-giszter/">Drexel College of Medicine</a>
   desc: >
-    Our laboratory focuses on basic mechanisms of motor control in spinal cord, and on corticospinal interactions. The focus particularly on spinal cord modularity in relation to these. 
+    Our laboratory focuses on basic mechanisms of motor control in spinal cord, in cortex, and on corticospinal interactions. The focus of our work is particularly on spinal cord modularity in relation to these, and the idea of motor primitives and muscle synergies as building block for functional movements. In addition, we are interested in the role of trunk control and its integration with the limbs, both in normal movement and during recovery from Spinal Cord Injury (SCI), and interested in combinations of bionic and biological and robotic therapies to promote recovery following SCI. Finally, our work involves the design and development of new neurotechnologies for recording and stimulation, especially in spinal cord, and the translation of these as viable Intellectual Property and useful devices.
   areas: 
     - Neuromechanics: research/areas#neuromechanics
     - Comparative Neuroengineering: research/areas#comparative
+    - Translational Neuroengineering: research/areas#translational
+    - Neurotechnology: research/areas#technology
 
 
 - photo: https://drexel.edu/~/media/Images/biomed/faculty/Izzetoglu-Kurtulus.ashx
