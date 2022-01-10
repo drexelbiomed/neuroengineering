@@ -3,8 +3,8 @@
   sub_pages:
     - title: Faculty Overview
       url: overview
-- title: Curriculum
-  url: curriculum
+- title: Courses
+  url: courses
   sub_pages:
     - title: Course List
       url: list
